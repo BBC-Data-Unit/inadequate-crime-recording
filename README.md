@@ -7,6 +7,7 @@ In September 2017 we [reported that seven out of 14 police forces have been dubb
 ## Get the data
 
 * XLS: [How effective is the force at recording reported crime? By force](https://github.com/BBC-Data-Unit/inadequate-crime-recording/blob/master/policeforcecrimedatareports.xlsx)
+* HMICFRS: [Reports - Rolling programme of crime data integrity inspections](https://www.justiceinspectorates.gov.uk/hmicfrs/our-work/crime-data-integrity/reports-rolling-programme-crime-data-integrity/)
 
 ## Visualisation and interactivity
 
